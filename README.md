@@ -1,0 +1,2 @@
+# Underwater-Image-Enhancement-with-Hyper--Laplacian-Reflectance-Priors
+underwater image enhancement is challenging due to the complicated physical properties of underwater environments that lead to the visibility degradation and colour distortion of underwater images. To overcome these limitations, developed a novel  retinex variational algorithm to enhance underwater images with hyper- laplacian reflectance  priors.
